@@ -53,6 +53,7 @@ export const classes = {
     total: 1,
     starting: 1,
     order: [1]
+  },
   eclipse: {
     locked: true,
     total: 28,
