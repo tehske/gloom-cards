@@ -97,7 +97,7 @@ const Card = ({
 						/>
 				</label>
 			}
-      <img src={`cards/${character}-${id}.jpg`} alt="" />
+      <img src={`cards/${character}-${id}.png`} alt="" />
     </div>
   ));
 }
