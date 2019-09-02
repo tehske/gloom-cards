@@ -48,7 +48,7 @@ export const classes = {
     order: [1,2,3,9,17,18,25,26,28,8,15,27,6,10,20,24,5,16,4,23,7,12,
 			19,22,14,21,11,13]
   },
-  eclipse: {
+  nightshroud: {
     locked: true,
     total: 28,
     starting: 12,
