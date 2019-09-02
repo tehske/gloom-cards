@@ -41,19 +41,26 @@ export const classes = {
     order: [2,6,9,12,20,21,24,25,28,3,13,19,17,26,4,15,7,23,11,27,5,
 			14,8,16,1,10,18,22]
   },
-  'angry-face': {
-    locked: true,
-    total: 31,
-    starting: 15,
-    order: [2,5,6,9,11,14,16,18,20,22,29,30,3,7,21,15,31,12,28,4,19,10,
-			25,13,27,8,23,17,26,1,24]
-  },
   circles: {
 	locked: true,
     total: 28,
     starting: 12,
     order: [1,2,3,9,17,18,25,26,28,8,15,27,6,10,20,24,5,16,4,23,7,12,
 			19,22,14,21,11,13]
+  },
+  eclipse: {
+    locked: true,
+    total: 28,
+    starting: 12,
+    order: [4,6,8,10,11,12,20,21,23,7,9,28,18,22,2,25,15,17,3,5,24,26,
+			13,19,14,16,1,27]
+  }/*,
+  'angry-face': {
+    locked: true,
+    total: 31,
+    starting: 15,
+    order: [2,5,6,9,11,14,16,18,20,22,29,30,3,7,21,15,31,12,28,4,19,10,
+			25,13,27,8,23,17,26,1,24]
   },
   sun: {
     locked: true,
@@ -91,12 +98,6 @@ export const classes = {
     starting: 12,
     order: []
   },
-  eclipse: {
-    locked: true,
-    total: 28,
-    starting: 12,
-    order: []
-  },
   saw: {
     locked: true,
     total: 31,
@@ -114,5 +115,5 @@ export const classes = {
     total: 30,
     starting: 14,
     order: []
-  }
+  }*/
 }
