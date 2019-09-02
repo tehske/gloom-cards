@@ -41,7 +41,7 @@ export const classes = {
     order: [2,6,9,12,20,21,24,25,28,3,13,19,17,26,4,15,7,23,11,27,5,
 			14,8,16,1,10,18,22]
   },
-  circles: {
+  summoner: {
 	locked: true,
     total: 28,
     starting: 12,
