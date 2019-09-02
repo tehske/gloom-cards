@@ -59,7 +59,7 @@ export const classes = {
     locked: true,
     total: 30,
     starting: 14,
-    order: []
+    order: [ ]
   },
   triangle: {
     locked: true,
