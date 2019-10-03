@@ -35,6 +35,12 @@ export const classes = {
     order: [4,6,8,10,11,12,20,21,23,7,9,28,18,22,2,25,15,17,3,5,24,26,
 			13,19,14,16,1,27]
   },
+  plagueherald: {
+    total: 30,
+    starting: 14,
+    order: [4,8,11,12,13,17,19,20,26,29,30,6,9,27,18,25,10,24,16,23,1,
+			28,5,22,2,3,14,21,7,15]
+  },
   summoner: {
     total: 28,
     starting: 12,
@@ -76,12 +82,6 @@ export const classes = {
     locked: true,
     total: 28,
     starting: 12,
-    order: []
-  },
-  cthulhu: {
-    locked: true,
-    total: 30,
-    starting: 14,
     order: []
   },
   'lightning-bolt': {
