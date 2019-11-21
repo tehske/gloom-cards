@@ -52,6 +52,12 @@ export const classes = {
     starting: 15,
     order: [18,16,10,2,5,6,7,14,15,19,27,29,23,28,30,13,20,24,31,4,8,1,
 			25,9,22,17,26,3,11,12,21]
+  },
+  'music-note': {
+    total: 28,
+    starting: 12,
+    order: [2,7,11,16,20,21,23,25,27,15,26,28,4,22,6,9,8,10,12,13,17,18,
+			1,14,5,24,3,19]
   }/*,
   brute: {
     total: 29,
@@ -94,12 +100,6 @@ export const classes = {
     locked: true,
     total: 29,
     starting: 13,
-    order: []
-  },
-  'music-note': {
-    locked: true,
-    total: 28,
-    starting: 12,
     order: []
   },
   'two-mini': {
