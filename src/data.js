@@ -46,6 +46,12 @@ export const classes = {
     starting: 14,
     order: [4,8,11,12,13,17,19,20,26,29,30,6,9,27,18,25,10,24,16,23,1,
 			28,5,22,2,3,14,21,7,15]
+  },
+  saw: {
+    total: 31,
+    starting: 15,
+    order: [2,5,6,7,10,14,15,19,27,29,23,28,30,16,18,13,20,24,31,4,8,1,
+			25,9,22,17,26,3,11,12,21]
   }/*,
   brute: {
     total: 29,
@@ -94,12 +100,6 @@ export const classes = {
     locked: true,
     total: 28,
     starting: 12,
-    order: []
-  },
-  saw: {
-    locked: true,
-    total: 31,
-    starting: 15,
     order: []
   },
   'two-mini': {
