@@ -58,6 +58,12 @@ export const classes = {
     starting: 12,
     order: [2,7,11,16,20,21,23,25,27,15,26,28,4,22,6,9,8,10,12,13,17,18,
 			1,14,5,24,3,19]
+  },
+  'triple-spears': {
+    total: 28,
+    starting: 12,
+    order: [4,6,10,11,12,13,15,21,27,7,20,26,2,17,5,25,9,28,19,24,3,16,
+			18,23,8,14,1,22,]
   }/*,
   brute: {
     total: 29,
@@ -88,12 +94,6 @@ export const classes = {
     locked: true,
     total: 29,
     starting: 13,
-    order: []
-  },
-  'triple-spears': {
-    locked: true,
-    total: 28,
-    starting: 12,
     order: []
   },
   'lightning-bolt': {
