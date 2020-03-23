@@ -76,6 +76,12 @@ export const classes = {
     starting: 12,
     order: [4,6,10,11,12,13,15,21,27,7,20,26,2,17,5,25,9,28,19,24,3,16,
 			18,23,8,14,1,22,]
+  },
+  'two-mini': {
+    total: 30,
+    starting: 14,
+    order: [2,5,6,7,11,12,15,17,21,23,29,4,10,22,8,9,28,30,1,19,20,24,
+			3,18,25,27,14,16,13,26,]
   }/*
   'angry-face': {
     locked: true,
@@ -100,12 +106,6 @@ export const classes = {
     locked: true,
     total: 29,
     starting: 13,
-    order: []
-  },
-  'two-mini': {
-    locked: true,
-    total: 30,
-    starting: 14,
     order: []
   },
   what: {
