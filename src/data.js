@@ -82,6 +82,12 @@ export const classes = {
     starting: 14,
     order: [2,5,6,7,11,12,15,17,21,23,29,4,10,22,8,9,28,30,1,19,20,24,
 			3,18,25,27,14,16,13,26,]
+  },
+  triangle: {
+    total: 29,
+    starting: 13,
+    order: [11,12,14,15,16,21,22,23,25,26,1,5,3,4,2,7,16,13,19,17,29,10,
+			24,18,27,6,28,8,9,]
   }/*
   'angry-face': {
     locked: true,
@@ -94,12 +100,6 @@ export const classes = {
     locked: true,
     total: 30,
     starting: 14,
-    order: []
-  },
-  triangle: {
-    locked: true,
-    total: 29,
-    starting: 13,
     order: []
   },
   'lightning-bolt': {
