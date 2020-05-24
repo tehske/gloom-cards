@@ -88,6 +88,12 @@ export const classes = {
     starting: 13,
     order: [11,12,14,15,16,21,22,23,25,26,2,7,17,1,5,3,4,16,13,19,29,10,
 			24,18,27,6,28,8,9,]
+  },
+  sun: {
+    total: 30,
+    starting: 14,
+    order: [4,6,9,10,12,15,16,19,23,24,28,2,8,14,22,29,5,20,13,25,1,26,
+			17,27,3,30,7,18,1,11,]
   }/*
   'angry-face': {
     locked: true,
@@ -95,12 +101,6 @@ export const classes = {
     starting: 15,
     order: [2,5,6,9,11,14,16,18,20,22,29,30,3,7,21,15,31,12,28,4,19,10,
 			25,13,27,8,23,17,26,1,24]
-  },
-  sun: {
-    locked: true,
-    total: 30,
-    starting: 14,
-    order: []
   },
   'lightning-bolt': {
     locked: true,
