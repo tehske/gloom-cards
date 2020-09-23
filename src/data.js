@@ -96,18 +96,17 @@ export const classes = {
 			17,27,3,30,7,18,1,11,]
   },
   'angry-face': {
-    locked: true,
     total: 31,
     starting: 15,
     order: [2,5,6,9,11,14,16,18,20,22,29,30,3,7,21,15,31,12,28,4,19,10,
 			25,13,27,8,23,17,26,1,24]
-  }/*,
+  },
   'lightning-bolt': {
-    locked: true,
     total: 29,
     starting: 13,
-    order: []
-  },
+    order: [1,3,7,8,9,14,15,17,21,25,16,19,27,4,20,11,24,13,23,12,22,10,
+			28,5,6,2,29,18,26,]
+  }/*,
   what: {
     locked: true,
     total: 30,
