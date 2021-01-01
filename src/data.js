@@ -112,6 +112,22 @@ export const classes = {
     starting: 13,
     order: [1,3,7,8,9,14,15,17,21,25,16,19,27,4,20,11,24,13,23,12,22,10,
 			28,5,6,2,29,18,26,]
+  },
+  demolitionist: {
+    total: 28,
+    starting: 12
+  },
+  hatchet: {
+    total: 29,
+    starting: 13
+  },
+  'red-guard': {
+    total: 29,
+    starting: 13
+  },
+  voidwarden: {
+    total: 30,
+    starting: 14
   }/*,
   what: {
     locked: true,
